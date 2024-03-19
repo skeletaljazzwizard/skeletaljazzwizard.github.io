@@ -10,7 +10,7 @@ tagarray: []
 
 social:
     - icon: fa-github
-      link: "https://github.com/abrhoda"
+      link: "https://github.com/skeletaljazzwizard"
     - icon: fa-linkedin
       link: "https://linkedin.com/in/alexander-rhoda"
 
@@ -20,7 +20,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://abrhoda.github.io"
+url: "https://skeletaljazzwizard.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
